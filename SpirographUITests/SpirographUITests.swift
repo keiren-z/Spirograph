@@ -2,7 +2,7 @@
 //  SpirographUITests.swift
 //  SpirographUITests
 //
-//  Created by Karen Zaracho on 11/11/20.
+//  Created by Keiren on 11/11/20.
 //
 
 import XCTest
